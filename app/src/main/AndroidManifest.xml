@@ -23,7 +23,9 @@
         <activity
             android:name=".AddContent"
             android:screenOrientation="portrait"></activity>
-        <activity android:name=".SelectActivity"></activity>
+        <activity
+            android:name=".SelectActivity"
+            android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>
